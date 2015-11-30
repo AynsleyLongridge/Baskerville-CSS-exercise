@@ -56,6 +56,12 @@ p.introduction:first-letter {
     
  }
 
+.version2 p+p+p {text-indent: 1.5em;}
+.version2 p+p {margin-bottom: -1em;}
+
+.version3 {font-family: 'Open Sans', 'sans-serif';}
+.version3 h1 {font-family: 'Arvo', 'serif';}
+
 blockquote{
 			color:#888888;
 			padding: .5em 0;
