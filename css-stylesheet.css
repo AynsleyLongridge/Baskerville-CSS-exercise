@@ -1,0 +1,84 @@
+body{
+width: 80&;
+    max-width: 650px;
+    min-height: 300px;
+    margin: auto;
+    background-color: white;
+    color: black;
+    line-height: 1.5em;
+    font-size: 80%;
+    font-weight: 200;
+}
+
+h1,h2,h3 {
+    text-align: left;
+    color: black;
+    font-weight: 300;
+    line-height: 0em;
+    padding: -0.5em 0 1em 0;
+}
+
+hr{ color:crimson;
+    border: 1px solid;
+}
+
+h1{ font-size: 1.2em;
+    text-transform: uppercase;
+    margin-top: 2em;
+    font-family: 'Libre Baskerville', 'serif';
+}
+
+h2{ font-family: 'Libre Baskerville', 'serif';
+    font-size: 1.9em;
+    margin-top: 0.8em;
+}
+
+h3{ font-family:'Libre Baskerville', 'serif';
+    font-size: 1.2em;
+    margin-top: 2em;
+    text-transform: uppercase;
+}
+
+.intro{ font-size: 100%;
+    line-height: 1.8em;
+    font-family:'Libre Baskerville', 'Arial';
+}
+
+p.introduction:first-letter {
+ font-size : 5.5em;
+ font-weight : bold;
+ float : left;
+ width : 0.8em;
+ padding-top: 0.007em;
+ padding-bottom: 0.007em;
+ line-height: 60px;
+    
+ }
+
+blockquote{
+			color:#888888;
+			padding: .5em 0;
+			font-size: 1.25em;
+			line-height: 1.5em;
+			margin: 0;
+			font-style: italic;
+			font-family: 'Libre Baskerville', 'serif';
+			font-weight: 300;
+			text-indent: -.4em;
+			}
+
+blockquote cite {
+				font-size: .75em;
+				}
+
+p{
+			font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman';
+			}
+
+p+p{
+			font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman';
+			}
+
+p+p+p{
+			font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman';
+			}
