@@ -1,5 +1,5 @@
 
-body{
+.version1 body{
 width: 80&;
     max-width: 650px;
     min-height: 300px;
@@ -11,7 +11,7 @@ width: 80&;
     font-weight: 200;
 }
 
-h1,h2,h3 {
+.version1 h1,h2,h3 {
     text-align: left;
     color: black;
     font-weight: 300;
@@ -19,22 +19,22 @@ h1,h2,h3 {
     padding: -0.5em 0 1em 0;
 }
 
-hr{ color:crimson;
+.version1 hr{ color:crimson;
     border: 1px solid;
 }
 
-h1{ font-size: 1.2em;
+.version1 h1{ font-size: 1.2em;
     text-transform: uppercase;
     margin-top: 2em;
     font-family: 'Libre Baskerville', 'serif';
 }
 
-h2{ font-family: 'Libre Baskerville', 'serif';
+.version1 h2{ font-family: 'Libre Baskerville', 'serif';
     font-size: 1.9em;
     margin-top: 0.8em;
 }
 
-h3{ font-family:'Libre Baskerville', 'serif';
+.version1 h3{ font-family:'Libre Baskerville', 'serif';
     font-size: 1.2em;
     margin-top: 2em;
     text-transform: uppercase;
