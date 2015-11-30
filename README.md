@@ -7,3 +7,7 @@ Week 10's task of using CSS to style text in 3 different ways that are shown in 
 -------------
 - [Version 1](https://github.com/AynsleyLongridge/Baskerville-CSS-exercise/exercise-1.html)
 
+- [Version 2](https://github.com/AynsleyLongridge/Baskerville-CSS-exercise/exercise-2.html)
+
+- [Version 3](https://github.com/AynsleyLongridge/Baskerville-CSS-exercise/exercise-3.html)
+
